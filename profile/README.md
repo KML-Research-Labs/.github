@@ -8,4 +8,5 @@ Here you can see what people on KML Research Labs are working on!
 - [BCBS-NetHunter](https://github.com/kauanmezavila/BCBS-NetHunter)
 - [Peloponeso](https://github.com/kauanmezavila/peloponeso)
 - [pypipeline](https://github.com/kauanmezavila/pypipeline)
-- [my-first-vm](https://github.com/kauanmezavila/my-first-vm) 
+- [my-first-vm](https://github.com/kauanmezavila/my-first-vm)
+- [EtherBreaker](https://github.com/kauanmezavila/EtherBreaker)
