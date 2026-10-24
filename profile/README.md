@@ -10,3 +10,4 @@ Here you can see what people on KML Research Labs are working on!
 - [pypipeline](https://github.com/kauanmezavila/pypipeline)
 - [my-first-vm](https://github.com/kauanmezavila/my-first-vm)
 - [EtherBreaker](https://github.com/kauanmezavila/EtherBreaker)
+- [oracle](https://github.com/kauanmezavila/oracle)
